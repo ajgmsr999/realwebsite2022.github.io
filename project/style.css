@@ -1,0 +1,106 @@
+header {
+
+    background: rgb(3, 8, 31);
+    color: #f0ffff;
+
+}
+
+/*
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover 
+li a:hover {
+    background-color: #111;
+  }
+
+
+
+
+
+*/
+
+li {
+    float: left;
+}
+
+
+
+
+
+
+
+a {
+
+    display: block;
+    color: hsl(210, 100%, 2%);
+    background: rgb(228, 220, 220);
+    padding: 14px 16px;
+    text-decoration: none;
+
+
+}
+
+.container2  {
+
+   
+    padding: none;
+    float: none;
+    text-align: center;
+    text-decoration: none;
+    color: hsl(207, 87%, 6%);
+    margin-top: 245px;
+    margin: none;
+    text-size-adjust:11px ;
+
+    
+}
+
+.social{
+
+  background: rgb(36, 1, 1);
+  margin-top: 25px;
+
+  color: #f0ffff;
+}
+table{
+
+  background: #000;
+  font-size: xx-small;
+  color: rgb(233, 247, 247);
+  margin-left: 500px;
+}
+
+
+footer {
+    margin-top: 300px;
+
+    background: #000;
+
+
+}
+
+
+.footer-bottom {
+    background: rgb(6, 34, 66);
+    color: aliceblue;
+    text-align: center;
+}
